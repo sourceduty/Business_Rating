@@ -81,6 +81,8 @@ Tesla's commitment to innovation, environmental sustainability, and impressive v
 [Product Rating](https://github.com/sourceduty/Product_Rating)
 <br>
 [Vehicle Rating](https://github.com/sourceduty/Vehicle_Rating)
+<br>
+[Business Prediction](https://chatgpt.com/g/g-NeRUwW82v-business-prediction)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
