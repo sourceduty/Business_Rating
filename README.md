@@ -137,12 +137,16 @@ ChatGPT is an advanced language model developed by OpenAI, capable of understand
 
 #### OpenAI
 **Rating: 5 ⭐**
+
 **Reasoning:**
+
 OpenAI is at the forefront of AI research and development, consistently pushing the boundaries of what AI can achieve. Their commitment to ethical AI and open-source contributions is commendable, making advanced AI accessible and beneficial to a broader audience. The company's products, including GPT-4, are powerful and versatile, catering to a wide range of user needs from developers to businesses.
 
 #### ChatGPT
 **Rating: 4.5 ⭐**
+
 **Reasoning:**
+
 ChatGPT is a highly advanced conversational AI that excels in various applications due to its versatility and sophisticated language processing capabilities. The model's ability to generate coherent and contextually appropriate responses makes it a valuable tool across industries. However, there are still challenges with understanding nuanced context and generating perfect accuracy in every scenario, leaving room for improvement. Nonetheless, its continuous evolution and wide applicability make it a top choice for conversational AI needs.
 
 <br>
