@@ -69,6 +69,35 @@ Tesla's commitment to innovation, environmental sustainability, and impressive v
 <br>
 </details>
 
+<details><summary>Sourceduty Rating</summary>
+<br>
+
+Sourceduty is a creative digital company established by Alex Aldridge in late 2022. The company specializes in a wide range of design and development services. Alex Aldridge, a self-taught designer, artist, and software developer, offers expertise in product design, sci-fi design, car design, mechanical design, business models, software development, game concept design, and more​.
+
+Key Features:
+
+- Service Variety: Sourceduty provides an extensive array of services, including minimalist product design, product packaging, 3D printing models, and Python development. This wide range ensures they can cater to diverse client needs.
+- Affordability: The company offers services starting at $25, making it accessible to startups and small businesses.
+- Customization: Sourceduty offers white-label solutions, allowing businesses to rebrand and customize products to fit their unique market positioning without investing in the development process themselves​
+
+Unique Selling Points:
+
+- Creative Expertise: Alex's multifaceted skills allow for innovative and unique designs across various industries, from tech to entertainment.
+- Flexibility: The ability to offer custom and white-label solutions provides businesses with flexibility in how they present and market their products​
+
+Customer Feedback and Performance:
+As a relatively new company, specific customer reviews and detailed performance metrics are limited. However, the diverse service offerings and affordable pricing model are strong indicators of potential positive reception and growth.
+
+Rating:
+Based on the information available, Sourceduty demonstrates a strong foundation in creative digital services with a wide range of offerings and flexible solutions. However, the lack of extensive customer feedback and detailed performance data means there's still room for growth and improvement.
+
+Rating: ⭐⭐⭐⭐ 4.0
+
+This rating reflects the company's innovative approach and diverse service range, balanced against the need for more comprehensive performance and customer satisfaction data.
+
+<br>
+</details>
+
 #
 ### Related Links
 
